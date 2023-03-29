@@ -154,6 +154,12 @@ span {
     background-color: rgba(192, 228, 122, 0.3);
 }
 
+#medical img {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
 .sylhet-point {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(images/donation12.png);
     width: 75%;
