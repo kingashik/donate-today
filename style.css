@@ -153,3 +153,100 @@ span {
 #medical {
     background-color: rgba(192, 228, 122, 0.3);
 }
+
+.sylhet-point {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(images/donation12.png);
+    width: 75%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 10px auto;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.sunamgonj-other {
+    width: 75%;
+    margin: 5px auto;
+    display: flex;
+}
+
+.donation-point-box {
+    width: 49%;
+    height: 200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 0px auto;
+}
+
+.other-point {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(images/donation5.jpg);
+}
+
+.point-details {
+    color: white;
+    text-align: center;
+    padding: 3% 1%;
+    width: 80%;
+    margin: 0% auto;
+}
+
+.point-details p {
+    padding-bottom: 10px;
+}
+
+.donate-batton {
+    text-decoration: none;
+    color: #f3f3f3;
+    padding: 8px 13px;
+    background-color: #ff5959;
+    border-radius: 8px;
+}
+
+.update_part {
+    height: 80vh;
+}
+
+.sub-from {
+    height: 180px;
+    width: 50%;
+    margin: 4% auto;
+    background-color: #FFF4D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.input-email {
+    border: 0;
+    padding: 6px 6px;
+    background-color: #cfcece;
+    border-radius: 5px 0 0 5px;
+}
+
+.sub-button {
+    border: 0;
+    padding: 3px 3px;
+    margin: -5px;
+    color: white;
+    background-color: #ff5959;
+    border-radius: 0 5px 5px 0;
+}
+
+footer {
+    text-align: center;
+    background-color: #0B0D17;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer h1 {
+    color: #ff5959;
+    font-style: italic;
+}
